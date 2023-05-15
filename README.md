@@ -15,7 +15,7 @@ To run the code in this repository, you need the following dependencies:
 # Model Architecture
 The GAN model used in this repository follows the SRGAN architecture. It consists of a generator network and a discriminator network. The generator network takes a low-resolution image as input and generates a high-resolution image. The discriminator network distinguishes between the generated high-resolution images and real high-resolution images. The two networks are trained simultaneously, with the generator aiming to generate realistic high-resolution images that can fool the discriminator.
 
-![Model Architecture](https://drive.google.com/file/d/1XWxR6w7yMYuOeVx-Fg0YWsyXrG7mofeW/view?usp=share_link)
+<img width="550" alt="image" src="https://github.com/kagHarsh/Image_Super_Resolution_using_GAN/assets/124779369/802c8d39-e488-4994-8567-0335af3af4a7">
 
 # Results
 Sample results obtained from the trained model can be found in the 'results' directory.
