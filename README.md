@@ -17,6 +17,10 @@ The GAN model used in this repository follows the SRGAN architecture. It consist
 
 <img width="550" alt="image" src="https://github.com/kagHarsh/Image_Super_Resolution_using_GAN/assets/124779369/802c8d39-e488-4994-8567-0335af3af4a7">
 
+# Datset
+You can download the dataset from the [dataset](https://www.kaggle.com/datasets/paulrohan2020/mirflickr25k)
+
+
 # Results
 Sample results obtained from the trained model can be found in the 'results' directory.
 
